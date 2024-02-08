@@ -3,7 +3,7 @@
 ## About
 
 <p align="center">
-    <img src="image/logo.png" alt="Opsgenie" width=50%>
+    <img src="img/logo.png" alt="Opsgenie" width=50%>
 </p>
 
 `Opsgenie Migration Tool` helps you to migrate your data from one Opsgenie account to another. It is a CLI tool that uses the Opsgenie REST API to export data from the source account and import it into the target account.
