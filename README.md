@@ -1,8 +1,4 @@
-# Opsgenie-Migration
-
-Opsgenie Migration Tool
-
----
+# Opsgenie Migration Tool
 
 ## About
 
