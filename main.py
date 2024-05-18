@@ -13,16 +13,8 @@ from src.patch_data import PatchData
 from src.payload import Payload
 from src.post_data import PostData
 from src.write_file import WriteFile
-from utils.assets import (
-    BASE_URL,
-    RETURN_MENU,
-    SEP_D,
-    SEP_S,
-    SHOW_PAYLOAD,
-    SHOW_RESPONSE,
-    clear,
-    display_title,
-)
+from utils.assets import (BASE_URL, RETURN_MENU, SEP_D, SEP_S, SHOW_PAYLOAD,
+                          SHOW_RESPONSE, clear, display_title)
 
 load_dotenv()
 
